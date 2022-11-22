@@ -1,0 +1,29 @@
+body{
+    background-image: url(Imagenes/Agua.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+}
+h1{
+    text-align: center;
+    text-size-adjust: 100%;
+    font-size: 300%;
+    font-family:sans-serif;
+}
+h3{
+    text-align: left;
+    text-size-adjust: 100%; 
+    font-family:sans-serif;
+}
+.img{
+    width: 1000px;
+    height: 500px;
+    margin:0 auto;
+    display: block;
+    border-radius: 20%;
+}
+.img2{
+    width: 100px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+}
